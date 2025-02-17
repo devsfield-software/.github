@@ -1,8 +1,6 @@
-# About Devsfield!
+# About Devsfield
 
 Devsfield is a software development company that creates new software and improves existing systems. We specialize in web and mobile development, digital transformation, software engineering, AI-driven solutions, and staff augmentation.
-
-## Our Services
 
 **Software Engineering** 
 
