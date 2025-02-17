@@ -20,9 +20,13 @@ At Devsfield, we excel in artificial intelligence, particularly in leveraging la
 
 We emphasize teamwork, transparency, and adaptability. Using Agile and other methodologies, we work closely with clients to meet their unique needs and deliver high-quality solutions. Regular updates and detailed progress reports keep our clients informed at every stage of the process.
 
+**Staff Augmentation**
+
+We provide highly skilled and efficient developers to augment your existing teams. Our professionals seamlessly integrate into your workflow, offering expertise for both short-term and long-term needs. We deliver daily, weekly, and monthly feedback, ensuring clear communication and alignment with project goals. Whether working on a project, handling task-based assignments, or collaborating directly with your software development team, we maintain excellent English communication, keeping everything on track.
+
 **Expert Team**
 
-Our experienced team specializes in modern technologies such as .NET, Java, iOS, Android, JavaScript, React, Angular, Vue, Node.js, PL/SQL, SQL, and various Cloud platforms.
+Our experienced team specializes in modern technologies such as C#, .NET, Java, Python, iOS, Android, JavaScript, TypeScript, React, Angular, Vue, Node.js, Express.js, Django, Flask, Ruby on Rails, PHP, Laravel, Go, Kotlin, Swift, PL/SQL, SQL, PostgreSQL, MySQL, MongoDB, Firebase, Redis, Elasticsearch, Docker, Kubernetes, Terraform, AWS, Azure and Google Cloud Platform.
 
 #### 📫 Contact Us - info@devsfield.com | www.devsfield.com
 
